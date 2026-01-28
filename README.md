@@ -109,7 +109,11 @@ Review before interviews to refresh concepts
 
 This repository is structured to support that explanation.
 
-Author
+## License
+
+This project is licensed under the MIT License.
+
+## Author
 
 Thanveera Thasni
 Backend-focused MERN Stack Developer
